@@ -15,7 +15,7 @@ This open-source code provides two distinct approaches, each tailored to a speci
   - Leveraging the solved axis, a correction is applied to the general cross-sectional profile, yielding an accurate normal cross-sectional profile.
 
 - **Code and Data:**
-  - All relevant code and datasets are included in the compressed file named `sdj.zip`.
+  - All relevant code and datasets are included in the compressed file named `3DRe.7z`.
 
 ### Project Updates
 This project will be continuously updated, aiming to contribute to advancements in high-precision train measurements.
